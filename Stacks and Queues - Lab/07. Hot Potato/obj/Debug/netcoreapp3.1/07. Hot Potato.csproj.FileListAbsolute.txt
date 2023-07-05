@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.genruntimeconfig.cache

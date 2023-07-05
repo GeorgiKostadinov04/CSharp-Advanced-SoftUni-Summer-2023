@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\refint\07. Truck Tour.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net6.0\ref\07. Truck Tour.dll

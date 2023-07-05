@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.exe
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.deps.json
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.runtimeconfig.json
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.pdb
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\refint\02.Squares in Matrix.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.pdb
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\ref\02.Squares in Matrix.dll

@@ -1,0 +1,5 @@
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\net6.0\04.EvenTimes.csproj.CoreCompileInputs.cache

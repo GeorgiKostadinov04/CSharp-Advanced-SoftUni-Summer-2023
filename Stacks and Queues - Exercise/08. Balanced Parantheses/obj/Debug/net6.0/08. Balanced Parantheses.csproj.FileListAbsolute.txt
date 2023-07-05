@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\bin\Debug\net6.0\08. Balanced Parantheses.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\bin\Debug\net6.0\08. Balanced Parantheses.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\bin\Debug\net6.0\08. Balanced Parantheses.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\bin\Debug\net6.0\08. Balanced Parantheses.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\bin\Debug\net6.0\08. Balanced Parantheses.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\refint\08. Balanced Parantheses.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\08. Balanced Parantheses.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\08. Balanced Parantheses\obj\Debug\net6.0\ref\08. Balanced Parantheses.dll

@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.exe
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.deps.json
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.runtimeconfig.json
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.pdb
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\refint\05.SnakeMoves.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.pdb
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\ref\05.SnakeMoves.dll

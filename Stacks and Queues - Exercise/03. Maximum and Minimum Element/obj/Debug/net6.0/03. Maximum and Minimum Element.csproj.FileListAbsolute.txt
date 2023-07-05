@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\refint\03. Maximum and Minimum Element.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net6.0\ref\03. Maximum and Minimum Element.dll

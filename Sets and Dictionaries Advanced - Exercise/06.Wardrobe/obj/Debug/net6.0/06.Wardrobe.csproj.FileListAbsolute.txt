@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.exe
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.deps.json
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.runtimeconfig.json
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.pdb
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\refint\06.Wardrobe.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.pdb
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net6.0\ref\06.Wardrobe.dll

@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.exe
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.deps.json
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.runtimeconfig.json
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.pdb
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\refint\05.CountSymbols.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.pdb
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\05.CountSymbols\obj\Debug\net6.0\ref\05.CountSymbols.dll

@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\refint\04. Fast Food.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\ref\04. Fast Food.dll

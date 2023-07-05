@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\refint\05. Fashion Boutique.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net6.0\ref\05. Fashion Boutique.dll

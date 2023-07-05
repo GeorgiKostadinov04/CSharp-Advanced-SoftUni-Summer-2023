@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.genruntimeconfig.cache

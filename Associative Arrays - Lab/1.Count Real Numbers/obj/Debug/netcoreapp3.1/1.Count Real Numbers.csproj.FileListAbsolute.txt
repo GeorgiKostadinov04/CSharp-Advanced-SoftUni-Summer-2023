@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\bin\Debug\netcoreapp3.1\1.Count Real Numbers.exe
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\bin\Debug\netcoreapp3.1\1.Count Real Numbers.deps.json
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\bin\Debug\netcoreapp3.1\1.Count Real Numbers.runtimeconfig.json
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\bin\Debug\netcoreapp3.1\1.Count Real Numbers.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\bin\Debug\netcoreapp3.1\1.Count Real Numbers.dll
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\bin\Debug\netcoreapp3.1\1.Count Real Numbers.pdb
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.dll
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.pdb
+D:\dawnloads\C# Курс\Associative Arrays - Lab\1.Count Real Numbers\obj\Debug\netcoreapp3.1\1.Count Real Numbers.genruntimeconfig.cache

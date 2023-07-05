@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\bin\Debug\net6.0\SetsOfElemets.exe
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\bin\Debug\net6.0\SetsOfElemets.deps.json
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\bin\Debug\net6.0\SetsOfElemets.runtimeconfig.json
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\bin\Debug\net6.0\SetsOfElemets.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\bin\Debug\net6.0\SetsOfElemets.pdb
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\refint\SetsOfElemets.dll
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.pdb
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\SetsOfElemets.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Sets and Dictionaries Advanced - Exercise\SetsOfElemets\obj\Debug\net6.0\ref\SetsOfElemets.dll

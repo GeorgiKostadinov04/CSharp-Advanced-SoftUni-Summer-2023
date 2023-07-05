@@ -1,0 +1,15 @@
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.exe
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.deps.json
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.runtimeconfig.json
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.pdb
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\refint\04.MatrixShuffling.dll
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.pdb
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.genruntimeconfig.cache
+D:\dawnloads\C# Курс\Multidimentional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\ref\04.MatrixShuffling.dll

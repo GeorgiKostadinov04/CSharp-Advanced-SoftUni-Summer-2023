@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.exe
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.deps.json
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.json
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+D:\dawnloads\C# Курс\Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.genruntimeconfig.cache

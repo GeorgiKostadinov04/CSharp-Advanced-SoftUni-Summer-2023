@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.genruntimeconfig.cache

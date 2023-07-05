@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.exe
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.deps.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.runtimeconfig.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.dll
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.pdb
+D:\dawnloads\C# Курс\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.genruntimeconfig.cache
