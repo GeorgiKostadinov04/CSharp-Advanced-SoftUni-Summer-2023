@@ -1,0 +1,5 @@
+D:\dawnloads\C# Курс\CSharp-Advanced-SoftUni-Summer-2023\Exam Preparation\obj\Debug\net6.0\SoftUniKindergarten.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\CSharp-Advanced-SoftUni-Summer-2023\Exam Preparation\obj\Debug\net6.0\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\CSharp-Advanced-SoftUni-Summer-2023\Exam Preparation\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\CSharp-Advanced-SoftUni-Summer-2023\Exam Preparation\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfo.cs
+D:\dawnloads\C# Курс\CSharp-Advanced-SoftUni-Summer-2023\Exam Preparation\obj\Debug\net6.0\SoftUniKindergarten.csproj.CoreCompileInputs.cache
